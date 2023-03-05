@@ -1,6 +1,6 @@
-#ГЕНЕРАТОИ QR-CODE
+<h1>ГЕНЕРАТОР QR-CODE</h1>
 <b>генератор QR-кодов (консольное приложение)<b><br>
-#УСТАНОВКА
+<h1>УСТАНОВКА</h1>
 
   git clone https://github.com/hackerson7/QR-CODE-GENERATOR
   pip install qrcode
