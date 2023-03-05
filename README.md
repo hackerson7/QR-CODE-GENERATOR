@@ -2,7 +2,7 @@
 <b>генератор QR-кодов (консольное приложение)<b><br>
 <h1>УСТАНОВКА</h1>
 
-  git clone https://github.com/hackerson7/QR-CODE-GENERATOR
+  git clone https://github.com/hackerson7/QR-CODE-GENERATOR<br>
   pip install qrcode<br>
   pip install rich<br>
 <h1>Демка (фото)</h1>
